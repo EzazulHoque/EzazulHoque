@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EzazulHoque
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m a third year student at Monash University
+- 🌱 I’m a final year student at Monash University
 - 📫 Email me @ezazulhoqueniloy@gmail.com
 
 <!---

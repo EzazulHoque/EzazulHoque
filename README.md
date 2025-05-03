@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 🎓 **2023 IT Graduate (Major in Computer Networks Security)**  
-☁️ **Cloud & Infrastructure Engineer**  
+☁️ **Currently working as an Cloud & Infrastructure Engineer**  
 🧠 **AI & ML Explorer | Automator**  
 💡 Always curious and building. From designing scalable cloud solutions to experimenting with AI.
 
